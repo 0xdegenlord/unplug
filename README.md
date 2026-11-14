@@ -2,7 +2,7 @@
 
 **See every app plugged into your NEAR account, and unplug the ones you don't use.**
 
-Live demo: `https://YOUR-PROJECT.vercel.app` *(replace after deploying)*
+Live demo: **https://unplug-psi-bice.vercel.app**
 
 ![Unplug landing page](docs/landing.png)
 
